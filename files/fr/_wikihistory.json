@@ -1798,14 +1798,6 @@
     "modified": "2019-03-23T23:47:49.334Z",
     "contributors": ["fsiliadin", "Sebastianz", "CedricP", "Fredchat"]
   },
-  "Glossary/Simple_header": {
-    "modified": "2019-03-18T21:45:54.235Z",
-    "contributors": ["loella16"]
-  },
-  "Glossary/Simple_response_header": {
-    "modified": "2019-03-18T21:45:55.399Z",
-    "contributors": ["loella16"]
-  },
   "Glossary/Site": {
     "modified": "2020-10-11T05:33:50.641Z",
     "contributors": ["Voulto"]
@@ -12641,6 +12633,10 @@
       "Pitoutompoilu"
     ]
   },
+  "Web/API/Window/caches": {
+    "modified": "2020-10-15T22:06:53.037Z",
+    "contributors": ["Arzak656", "jonasgrilleres"]
+  },
   "Web/API/Window/cancelAnimationFrame": {
     "modified": "2020-10-15T22:25:28.586Z",
     "contributors": ["SphinxKnight", "eloidrai"]
@@ -12688,6 +12684,10 @@
   "Web/API/Window/crossOriginIsolated": {
     "modified": "2020-10-15T22:26:34.641Z",
     "contributors": ["Eliastik"]
+  },
+  "Web/API/Window/crypto": {
+    "modified": "2019-06-12T16:41:52.512Z",
+    "contributors": ["plyd", "foxstorm", "alandrieu"]
   },
   "Web/API/Window/customElements": {
     "modified": "2019-03-18T21:37:51.562Z",
@@ -13370,10 +13370,6 @@
       "Celelibi"
     ]
   },
-  "Web/API/caches": {
-    "modified": "2020-10-15T22:06:53.037Z",
-    "contributors": ["Arzak656", "jonasgrilleres"]
-  },
   "Web/API/clearInterval": {
     "modified": "2020-10-15T21:18:22.478Z",
     "contributors": [
@@ -13512,10 +13508,6 @@
   "Web/API/console/warn_static": {
     "modified": "2020-10-15T21:37:32.060Z",
     "contributors": ["loella16", "unpeudetout", "JulienItard"]
-  },
-  "Web/API/crypto_property": {
-    "modified": "2019-06-12T16:41:52.512Z",
-    "contributors": ["plyd", "foxstorm", "alandrieu"]
   },
   "Web/API/fetch": {
     "modified": "2020-11-16T08:26:54.613Z",
@@ -27336,5 +27328,13 @@
       "si0ls",
       "dattaz"
     ]
+  },
+  "conflicting/Glossary/CORS-safelisted_request_header": {
+    "modified": "2019-03-18T21:45:54.235Z",
+    "contributors": ["loella16"]
+  },
+  "conflicting/Glossary/CORS-safelisted_response_header": {
+    "modified": "2019-03-18T21:45:55.399Z",
+    "contributors": ["loella16"]
   }
 }
